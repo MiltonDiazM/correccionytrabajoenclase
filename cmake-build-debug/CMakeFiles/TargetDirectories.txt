@@ -1,0 +1,3 @@
+C:/Users/diazm/CLionProjects/trabajoenclasesycorrecion/cmake-build-debug/CMakeFiles/trabajoenclasesycorrecion.dir
+C:/Users/diazm/CLionProjects/trabajoenclasesycorrecion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diazm/CLionProjects/trabajoenclasesycorrecion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
